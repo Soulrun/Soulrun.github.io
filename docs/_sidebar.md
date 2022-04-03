@@ -7,8 +7,8 @@
   * [扰民之电吉他](01/Guitar/GT.md)
 * 玩电脑
   * [SQL](02/SQL/SQL.md)
-  * Python
-    * [Pandas](02/Pandas/Pandas.md)
+  * [Python基础](02/PY/Python.md)
+  * [Pandas](02/Pandas/Pandas.md)
   * [机器学习](02/ML/ML.md)
 * 工作也得卷
   * [汽车构造](03/VCL/VCL.md)
