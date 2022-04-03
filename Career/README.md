@@ -1,9 +1,3 @@
-# Headline
+# 上班了该怎么过
 
-> An awesome project.
-
-
-Hello Docsify!
-
-
-[>>指南](guide.md)
+> 上班是青春的终结吗？我尽量不变成这样！
